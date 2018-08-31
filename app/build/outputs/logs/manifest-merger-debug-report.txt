@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\d331fd50a1c91b0b7a32cdb1e610d761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eb0cc3a738c6fc76327762099ca89747\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\1b5e905062107471b5827f49f9f771b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\7828f5e9badea8743ed4f12d2e2c40c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f61633466a4129dbeb6cf9873be16e7e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\b8b9da271ee48688fa3f81ce3e920b98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\133ff3e2bd6c8ff2e386d92ad4510283\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\9ec6b83f09384893dc106f11c2aed960\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\f7bffae4924ef49b78107a2bf4ad66c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\188ce3b548d42c439e5669984a73f3b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\f9b769088e83a052dae516c7c82368cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6253684aa1bc8da2a552633e47f7c453\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\11a4a1090e244b4b01c56bd8c97993a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3af77e4441095287522744ec5f92b67f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\431389040d0a504e7e154a7cc386f825\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\88fb60bb56046bd90c0b133d7d083920\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\1bec7f5604aa8405d4f3d55c71b3a406\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9f44284a53824ad36892718de56f49cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b36821716eef164fae51486d398b075\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c68adf28ae742c0e3733373f150b211\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e41bb051620c67975eb70a01b4503389\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\b582480a1b59abfc920d69ea5b0407b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\7230643a3c5c239d5c9f00b212c253d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\e8c27fdb1f02f9132326538c8b2f9c2f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ae17ebaf5841cd6d03ac0b1a415ee014\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\75cee5588f2d24ce37fcdc816b3a63dd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:12:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eb0cc3a738c6fc76327762099ca89747\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eb0cc3a738c6fc76327762099ca89747\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f61633466a4129dbeb6cf9873be16e7e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f61633466a4129dbeb6cf9873be16e7e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\1bec7f5604aa8405d4f3d55c71b3a406\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\1bec7f5604aa8405d4f3d55c71b3a406\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.restaurant.juandavid.cartavirtualj.MainActivity
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:35:13-58
+activity#com.restaurant.juandavid.cartavirtualj.MapsActivity
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:38:9-40:59
+	android:label
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.restaurant.juandavid.cartavirtualj.DetailedMenu
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.restaurant.juandavid.cartavirtualj.Menu
+ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:42:9-44:20
+	android:name
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml:42:19-39
+uses-sdk
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\d331fd50a1c91b0b7a32cdb1e610d761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\d331fd50a1c91b0b7a32cdb1e610d761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eb0cc3a738c6fc76327762099ca89747\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\eb0cc3a738c6fc76327762099ca89747\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\1b5e905062107471b5827f49f9f771b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\1b5e905062107471b5827f49f9f771b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\7828f5e9badea8743ed4f12d2e2c40c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\7828f5e9badea8743ed4f12d2e2c40c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f61633466a4129dbeb6cf9873be16e7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f61633466a4129dbeb6cf9873be16e7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\b8b9da271ee48688fa3f81ce3e920b98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\b8b9da271ee48688fa3f81ce3e920b98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\133ff3e2bd6c8ff2e386d92ad4510283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\133ff3e2bd6c8ff2e386d92ad4510283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\9ec6b83f09384893dc106f11c2aed960\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\9ec6b83f09384893dc106f11c2aed960\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\f7bffae4924ef49b78107a2bf4ad66c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\f7bffae4924ef49b78107a2bf4ad66c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\188ce3b548d42c439e5669984a73f3b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\188ce3b548d42c439e5669984a73f3b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\f9b769088e83a052dae516c7c82368cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\f9b769088e83a052dae516c7c82368cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6253684aa1bc8da2a552633e47f7c453\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\6253684aa1bc8da2a552633e47f7c453\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\11a4a1090e244b4b01c56bd8c97993a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\11a4a1090e244b4b01c56bd8c97993a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3af77e4441095287522744ec5f92b67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3af77e4441095287522744ec5f92b67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\431389040d0a504e7e154a7cc386f825\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\431389040d0a504e7e154a7cc386f825\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\88fb60bb56046bd90c0b133d7d083920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\88fb60bb56046bd90c0b133d7d083920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\b426b16524320ca90da4eb6e5a72a6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\1bec7f5604aa8405d4f3d55c71b3a406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\1bec7f5604aa8405d4f3d55c71b3a406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9f44284a53824ad36892718de56f49cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9f44284a53824ad36892718de56f49cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b36821716eef164fae51486d398b075\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1b36821716eef164fae51486d398b075\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c68adf28ae742c0e3733373f150b211\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1c68adf28ae742c0e3733373f150b211\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e41bb051620c67975eb70a01b4503389\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e41bb051620c67975eb70a01b4503389\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\b582480a1b59abfc920d69ea5b0407b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\b582480a1b59abfc920d69ea5b0407b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\7230643a3c5c239d5c9f00b212c253d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\7230643a3c5c239d5c9f00b212c253d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\e8c27fdb1f02f9132326538c8b2f9c2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\e8c27fdb1f02f9132326538c8b2f9c2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ae17ebaf5841cd6d03ac0b1a415ee014\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ae17ebaf5841cd6d03ac0b1a415ee014\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\75cee5588f2d24ce37fcdc816b3a63dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\75cee5588f2d24ce37fcdc816b3a63dd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Juan David\Documents\GitHub\CartaVirtualJ\CartaVirtualJ\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\7329ce58f581fc2f422f3a35afe71074\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e6776da16fd7f7db7613e04d0d8b9a77\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\fd6c4ad2755c2a573403fabf0f17f1a4\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1bb024ef5c8c5d9851231bed844d8d0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Juan David\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\58e2efee62a8ab44fb2d4581804c9a1d\AndroidManifest.xml:27:13-51

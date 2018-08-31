@@ -1,0 +1,4 @@
+#Thu Aug 30 23:22:29 COT 2018
+base.0=C\:\\Users\\Juan David\\Desktop\\CartaVirtualJ\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
